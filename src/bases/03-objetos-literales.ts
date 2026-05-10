@@ -1,10 +1,23 @@
-const ironMan = {
+interface Person {
+  firstName: string;
+  lastName: string;
+  age: number;
+  isDeveloper: boolean;
+  address: Address;
+}
+
+interface Address {
+  postalCode: string;
+  city: string;
+}
+
+const ironMan: Person = {
   firstName: "Tony",
   lastName: "Stark",
   age: 30,
   isDeveloper: true,
   address: {
-    postalCode: 12345,
+    postalCode: "12345",
     city: "New York",
   }
 }
