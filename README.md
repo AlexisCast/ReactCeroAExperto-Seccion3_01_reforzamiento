@@ -10,3 +10,4 @@
 - feat 4: interfaces de TypeScript
 - feat 5: arreglos
 - feat 6: funciones
+- feat 7: funciones con multiples retornos
