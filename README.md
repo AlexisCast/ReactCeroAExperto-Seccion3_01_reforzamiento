@@ -11,3 +11,4 @@
 - feat 5: arreglos
 - feat 6: funciones
 - feat 7: funciones con multiples retornos
+- feat 8: destructuracion de objetos
