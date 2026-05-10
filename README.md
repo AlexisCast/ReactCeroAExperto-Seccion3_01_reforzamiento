@@ -17,3 +17,4 @@
 - feat 11: importaciones y exportaciones
 - feat 12: promesas
 - feat 13: giphy API - fetch API
+- feat 14: interfaces y optimizacion
