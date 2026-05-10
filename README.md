@@ -9,3 +9,4 @@
 - feat 3: objectos literales
 - feat 4: interfaces de TypeScript
 - feat 5: arreglos
+- feat 6: funciones
