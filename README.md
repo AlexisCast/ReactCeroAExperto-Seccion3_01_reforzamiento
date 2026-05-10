@@ -16,3 +16,4 @@
 - feat 10: interfaces y enumeraciones
 - feat 11: importaciones y exportaciones
 - feat 12: promesas
+- feat 13: giphy API - fetch API
