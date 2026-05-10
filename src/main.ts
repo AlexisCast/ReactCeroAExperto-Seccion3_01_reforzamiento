@@ -9,11 +9,12 @@ import './style.css'
 // import './bases/06-obj-destructuring'
 // import './bases/07-array-destructuring'
 // import './bases/data/heroes.data'
-import './bases/08-imp-exp'
-import { Owner } from './bases/data/heroes.data'
+// import './bases/08-imp-exp'
+import './bases/09-promises'
+// import { Owner } from './bases/data/heroes.data'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <div>Hello world</div>
 `
-console.log(getHeroesByOwner(Owner.DC))
+// console.log(getHeroesByOwner(Owner.DC))
 
