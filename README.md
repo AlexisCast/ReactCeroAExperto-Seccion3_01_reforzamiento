@@ -6,3 +6,4 @@
 
 - feat 1: variables y constantes
 - feat 2: template string
+- feat 3: objectos literales
