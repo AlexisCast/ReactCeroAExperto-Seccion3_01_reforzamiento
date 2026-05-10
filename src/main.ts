@@ -1,4 +1,4 @@
-import { getHeroesByOwner } from './bases/08-imp-exp'
+// import { getHeroesByOwner } from './bases/08-imp-exp'
 
 import './style.css'
 // import './bases/01-const-let'
@@ -10,8 +10,9 @@ import './style.css'
 // import './bases/07-array-destructuring'
 // import './bases/data/heroes.data'
 // import './bases/08-imp-exp'
-import './bases/09-promises'
+// import './bases/09-promises'
 // import { Owner } from './bases/data/heroes.data'
+import './bases/10-fetch-api'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <div>Hello world</div>
